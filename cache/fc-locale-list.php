@@ -103,6 +103,14 @@
     'iso639-2b' => 'ita',
     'iso639-3' => 'ita',
   ),
+  'kg_KG' => 
+  array (
+    'key' => 'kg_KG',
+    'complete' => 'false',
+    'name' => 'Кыргызский',
+    'iso639-2b' => 'kgz',
+    'iso639-3' => 'kgz',
+  ),
   'nb_NO' => 
   array (
     'key' => 'nb_NO',
